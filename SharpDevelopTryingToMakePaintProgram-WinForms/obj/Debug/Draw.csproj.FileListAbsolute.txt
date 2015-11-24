@@ -1,0 +1,9 @@
+C:\Users\Deyan\Desktop\KomputarnaGrafikaProekt\Basic C# Draw\C#\SharpDevelop2-WinForms\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Desktop\KomputarnaGrafikaProekt\Basic C# Draw\C#\SharpDevelop2-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\Deyan\Desktop\KomputarnaGrafikaProekt\Basic C# Draw\C#\SharpDevelop2-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Users\Deyan\Desktop\KomputarnaGrafikaProekt\Basic C# Draw\C#\SharpDevelop2-WinForms\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Users\Deyan\Desktop\KomputarnaGrafikaProekt\Basic C# Draw\C#\SharpDevelop2-WinForms\bin\Debug\Draw.exe
+C:\Users\Deyan\Desktop\KomputarnaGrafikaProekt\Basic C# Draw\C#\SharpDevelop2-WinForms\bin\Debug\Draw.pdb
+C:\Users\Deyan\Desktop\KomputarnaGrafikaProekt\Basic C# Draw\C#\SharpDevelop2-WinForms\obj\Debug\Draw.exe
+C:\Users\Deyan\Desktop\KomputarnaGrafikaProekt\Basic C# Draw\C#\SharpDevelop2-WinForms\obj\Debug\Draw.pdb
+C:\Users\Deyan\Desktop\KomputarnaGrafikaProekt\Basic C# Draw\C#\SharpDevelop2-WinForms\obj\Debug\Draw.Properties.Resources.resources
